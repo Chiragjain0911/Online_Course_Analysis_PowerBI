@@ -52,7 +52,7 @@ The dataset includes:
 
 ## 📊 Dashboard Preview
 
-> [View the PDF of the Dashboard]('https://github.com/Chiragjain0911/Online_Course_Analysis_PowerBI/blob/main/EDtech.pdf')  
+> [CLICK]('https://github.com/Chiragjain0911/Online_Course_Analysis_PowerBI/blob/main/EDtech.pdf')  
 > 
 
 ---
